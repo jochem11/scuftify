@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAmCfqjBIA5yvaunu+RysQQlItdX46IkLUyleSM7BKtwMpOtB1JCYVUzcApr71FjdOeC2dRuujCVpvL27+l+fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joche\\source\\repos\\scuftify\\scuftify\\scuftify.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joche\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\joche\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
